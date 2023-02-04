@@ -1,0 +1,114 @@
+---
+title: "Cartographie des évènements de l'AAF"
+output: 
+  flexdashboard::flex_dashboard:
+    theme:
+        version: 4
+        bootswatch: minty
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(leaflet)
+library(tidyverse)
+library(crosstalk)
+library(DT)
+
+```
+
+```{r}
+knitr::opts_chunk$set(echo = F)
+knitr::opts_chunk$set(warning = F)
+knitr::opts_chunk$set(message = F)
+```
+
+Page 1
+==================================
+
+
+Column {data-width=150}
+-----------------------------------------------------------------------
+
+### Recherche
+
+```{r}
+# Import du fichier source
+data <- read_csv(file = "evenement.csv")
+
+st <- SharedData$new(data)
+
+```
+
+```{r filter_section}
+filter_checkbox(
+    id = "type",
+    label = "Type d'évènement",
+    sharedData = st,
+    group = ~type
+)
+
+filter_select(
+    id ="year",
+    label = "Année de l'évènement",
+    sharedData = st,
+    group = ~annee
+)
+
+filter_select(
+    id ="comm",
+    label = "Lieu de l'évènement",
+    sharedData = st,
+    group = ~ville
+)
+
+
+```
+
+
+Column {data-width=800}
+-----------------------------------------------------------------------
+
+### Carte des évènements
+
+```{r}
+# Création de l'infobox qui s'affichera sur la carte
+infobox <- paste(
+    sep = "<br/>",
+    "<b> Thème : </b>", data$theme,
+    "<b>", "Date : </b>", data$date,
+    "<b>", "Commune : </b>", data$ville,
+    "<b>", paste0("<b><a href=",data$url, ">Lien vers les actes</a></b>")
+    )
+```
+
+```{r}
+# Création de la palette de couleur et attribution des couleurs aux différents types d'évènements
+pal <- colorFactor(palette = c("RASAD" = "#6A7FDB", 
+                               "Forum" = "#249159", 
+                               "Colloque ACII" = "#801A86"), 
+                               domain = data$type)
+```
+
+
+```{r interactive_map}
+# Création de la carte
+st %>% 
+    leaflet() %>%
+        addProviderTiles("OpenStreetMap.France") %>%
+        addCircleMarkers(color = pal(data$type),
+                     popup = infobox) %>% 
+        addLegend(pal = pal, values = data$type, opacity = 1)
+
+
+```
+
+
+Page 2
+================================
+
+
+```{r filterable_table}
+datatable(st)
+```
+
+
