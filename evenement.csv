@@ -1,9 +1,9 @@
 annee,type,edition,theme,url,ville,cp,date,latitude,longitude
-2002,RASAD,1re,La pra­ti­que de l’exter­na­li­sa­tion dans les Archives dépar­te­men­ta­les,https://github.com/ALDonzel/aafevenement/catinbox.gif,Bourges,18000,2002,47.082492,2.397495
-2003,RASAD,2ème,Les admi­nis­tra­tions de l’État et leurs archi­ves après la cir­cu­laire du 2 novem­bre 2001 : bilan et pers­pec­ti­ves,https://github.com/ALDonzel/aafevenement/catinbox.gif,Alençon,61000,2003,48.429859,0.092935
-2004,RASAD,3ème,"Évaluation et sélec­tion des archi­ves, quel­ques ques­tions d’actua­lité",https://github.com/ALDonzel/aafevenement/catinbox.gif,Carcassonne,11000,2004,43.206781,2.349415
+2002,RASAD,1re,La pra­ti­que de l’exter­na­li­sa­tion dans les Archives dépar­te­men­ta­les,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Bourges,18000,2002,47.082492,2.397495
+2003,RASAD,2ème,Les admi­nis­tra­tions de l’État et leurs archi­ves après la cir­cu­laire du 2 novem­bre 2001 : bilan et pers­pec­ti­ves,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Alençon,61000,2003,48.429859,0.092935
+2004,RASAD,3ème,"Évaluation et sélec­tion des archi­ves, quel­ques ques­tions d’actua­lité",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Carcassonne,11000,2004,43.206781,2.349415
 2005,RASAD,4ème,"Transfert de com­pé­ten­ces, trans­fert d’archi­ves. Dévolution des archi­ves cou­ran­tes, inter­mé­diai­res et défi­ni­ti­ves dans le cadre de l’acte II de la décen­tra­li­sa­tion",https://www.persee.fr/doc/gazar_0016-5522_2005_num_200_4_3799,Beauvais,60000,3-4 février 2005,49.439897,2.087073
-2006,RASAD,5ème,Les archi­ves électroniques : pra­ti­ques et tac­ti­ques,https://github.com/ALDonzel/aafevenement/catinbox.gif,Dijon,21000,2-3 février 2006,47.331938,5.034852
+2006,RASAD,5ème,Les archi­ves électroniques : pra­ti­ques et tac­ti­ques,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Dijon,21000,2-3 février 2006,47.331938,5.034852
 2007,RASAD,6ème,Un site inter­net aux archi­ves dépar­te­men­ta­les : pour­quoi ? com­ment ?,https://www.persee.fr/issue/gazar_0016-5522_2007_num_207_3,Marseille,13001,1er-2 février 2007,43.282,5.405
 2008,RASAD,7ème,La conser­va­tion pré­ven­tive,https://www.persee.fr/issue/gazar_0016-5522_2008_num_209_1,Rennes,35000,31 jan­vier-2 février 2008,48.1293,-1.6967
 2009,RASAD,8ème,Chiffrer et évaluer les archi­ves,https://www.persee.fr/issue/gazar_0016-5522_2009_num_216_4,Paris,75001,5-6 février 2009,48.859,2.347
@@ -16,13 +16,13 @@ annee,type,edition,theme,url,ville,cp,date,latitude,longitude
 2018,RASAD,15ème,L’archi­viste hors de ses fron­tiè­res – trans­ver­sa­li­tés / pas­se­rel­les / coo­pé­ra­tions,https://www.archivistes.org/RASAD-2018-supports-des-interventions,Angoulême,16000,1er-2 février 2018,45.644018,0.148409
 2020,RASAD,16ème,Faire l’arti­­cle ! Promouvoir nos res­­sour­­ces sur le web,https://www.archivistes.org/RASAD-2020-supports-des-interventions,Lyon,69001,6-7 février 2020,45.758,4.835
 2021,RASAD,17ème,Archives et objets,https://www.archivistes.org/RASAD-2021-supports-des-interventions,Angers,49100,14-15 octo­bre 2021,47.466735,-0.56191
-2023,RASAD,18ème,Les poli­ti­ques de clas­se­ment,https://github.com/ALDonzel/aafevenement/catinbox.gif,Nancy,54100,9-10 mars 2023,48.6411,6.1719
+2023,RASAD,18ème,Les poli­ti­ques de clas­se­ment,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Nancy,54100,9-10 mars 2023,48.6411,6.1719
 2015,Colloque ACII,11ème,Les mutations du métier d’archiviste et de son environnement,https://www.persee.fr/issue/gazar_0016-5522_2016_num_244_4,Limoges,87000,2-4 juin 2015,45.856159,1.221254
-2017,Colloque ACII,12ème,L’archi­viste-camé­léon : média­teur du quo­ti­dien,https://github.com/ALDonzel/aafevenement/catinbox.gif,Pau,64000,26-28 septembre 2017,43.313159,-0.343106
+2017,Colloque ACII,12ème,L’archi­viste-camé­léon : média­teur du quo­ti­dien,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Pau,64000,26-28 septembre 2017,43.313159,-0.343106
 2012,Colloque ACII,10ème,"Mutualiser, par­ta­ger, coo­pé­rer : des enjeux pour les archi­ves com­mu­na­les et inter­com­mu­na­les ",https://www.persee.fr/issue/gazar_0016-5522_2013_num_232_4,Béthune,62400,2-4 octobre 2012,50.528207,2.646031
 2005,Colloque ACII,7ème,"Représenter le territoire : archives et nouvelles technologies, du plan terrier au S.I.G.",https://www.persee.fr/issue/gazar_0016-5522_2004_num_194_1,Nantes,44000,28-30 septembre 2005,47.239367,-1.555335
 2010,Colloque ACII,9ème,L’archiviste dans la cité,https://www.persee.fr/issue/gazar_0016-5522_2011_num_222_2?sectionId=gazar_0016-5522_2011_num_222_2_4798,Nancy,54100,6-8 octobre 2010,48.7293,6.2356
-2023,Colloque ACII,13ème,Avec ou sans tran­­si­­tionS ? Les archi­­vis­­tes au cœur des défis contem­­po­­rains ,https://github.com/ALDonzel/aafevenement/catinbox.gif,Valenciennes,59300,17-19 octobre 2023,50.358552,3.510438
+2023,Colloque ACII,13ème,Avec ou sans tran­­si­­tionS ? Les archi­­vis­­tes au cœur des défis contem­­po­­rains ,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Valenciennes,59300,17-19 octobre 2023,50.358552,3.510438
 2002,Colloque ACII,6ème,"Archives et intercommunalité, nouveaux territoires, nouvelles pratiques ",https://www.persee.fr/issue/gazar_0016-5522_2005_num_199_3,Dunkerque,59140,9-11 octobre 2002,51.028093,2.346065
 1994,Colloque ACII,3ème,Archives municipales et patrimoine industriel,https://www.persee.fr/issue/gazar_0016-5522_1995_num_168_1,Elbeuf,76500,25-27 mai 1994,49.283747,0.991479
 2000,Colloque ACII,5ème,Archives et politique de la ville,https://www.persee.fr/issue/gazar_0016-5522_2005_num_199_3,Toulouse,31000,14-16 juin 2000,43.604082,1.433805
@@ -32,4 +32,42 @@ annee,type,edition,theme,url,ville,cp,date,latitude,longitude
 2013,Forum,1er,"Les archives, aujourd’hui et demain…",https://www.persee.fr/issue/gazar_0016-5522_2014_num_233_1,Angers,49100,20-22 mars 2013,47.5025,-0.5089
 2016,Forum,2ème,meta/morphose,https://www.persee.fr/issue/gazar_0016-5522_2017_num_245_1,Troyes,10000,30-31 mars et 1er avril 2016,48.292817,4.075149
 2019,Forum,3ème,Archives et transparence,https://www.persee.fr/issue/gazar_0016-5522_2019_num_255_3,Saint-Étienne,42000,20-22 mars 2019,45.430195,4.370045
-2025,Forum,4ème,[Thème à venir],https://github.com/ALDonzel/aafevenement/catinbox.gif,Rennes,35000,,48.11505,-1.68119
+2025,Forum,4ème,[Thème à venir],https://media.giphy.com/media/HS8wtvlJlcm6RBSNjd/giphy.gif,Rennes,35000,,48.11505,-1.68119
+2005,Journée d’étude AR,,Les archives des organismes associés ,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75001,2005,48.8730,2.3004
+2007,Journée d’étude AR,,La formation professionnelle et les fonds européens y afférents,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Strasbourg,67200,2007,48.579831,7.761454
+2010,Journée d’étude AR,,L'archivage numérique en collectivité territoriale,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Ajaccio,20000,14-15 octobre 2010,41.933934,8.715408
+2011,Journée d’étude AR,,Former et sensibiliser les producteurs d'archives,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Metz,57000,13-14 octobre 2011,49.108385,6.194897
+2012,Journée d’étude AR,,Tout sauf le papier et le numérique,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Toulouse,31110,22-23 novembre 2012,43.604082,1.433805
+2015,Journée d’étude AR,,"Sélection, tri et échantillonnage : la constitution des archives historiques dans les Archives régionales",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75005,08-09 octobre 2015,48.8425,2.2977
+2017,Journée d’étude AR,,Archivage électronique : retours d’expériences en Régions et focus sur le traitement des données et des documents bureautiques,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Rennes,35000,23-24 novembre 2017,48.110899,-1.68365
+2015,Journée d’étude AURORE,,"Quelle mémoire pour l’éducation et la recherche ? Sélection et tri des archives, documents et données",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Poitiers,86000,6 novembre 2015,46.586616,0.356849
+2016,Journée d’étude AURORE,,Archiver la recherche : responsabilités partagées,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Montpellier,34080,23 juin 2016,43.610476,3.87048
+2017,Journée d’étude AURORE,,"L'enseignement, quelles archives ?",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Lyon,69000,10 novembre 2017,45.758,4.835
+2018,Journée d’étude AURORE,,"Archives en partage, fusions, associations, gestion mixte",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Strasbourg,67000,12 novembre 2018,48.579831,7.761454
+2019,Journée d’étude AURORE,,La collecte,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Tours,37200,7-8 novembre 2019,47.395476,0.69472
+2021,Journée d’étude AURORE,,Le positionnement des services d'archives intermédiaires,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Talence,33400,7-8 octobre 2021,44.806418,-0.592018
+2022,Journée d’étude AURORE,,"Concilier ouverture, protection et conservation des données - partenariat avec SupDpo",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Villeneuve d'Ascq,59491,17-18 novembre 2022,50.637916,3.147134
+2001,Journée d’étude AESP,,Le knowledge management est l'enjeu de transformer l'information en savoir,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Avignon,84000,28-29 juin 2001,43.936694,4.845053
+2001,Journée d’étude AESP,,Archives et archives audiovisuelles dans le monde de l'entreprise,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75013,9 novembre 2001,48.8295,2.3293
+2001,Journée d’étude AESP,,Journée de printemps,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Dijon,21231,18-19 juin 2001,47.331938,5.034852
+2004,Journée d’étude AESP,,"journée d'automne ""Archives bancaires : enjeux et perspectives actuels""",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75016,5 novembre 2004,48.8321,2.3803
+2005,Journée d’étude AESP,,Archives d'art et d'industrie,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75007,10 février 2005,48.8498,2.3880
+2005,Journée d’étude AESP,,Journées de printemps,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Lyon,69002,9-10 juin 2005,45.758,4.835
+2005,Journée d’étude AESP,,Impact de la notion de risque sur la gestion des archives - regards croisés,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Maisons-Alfort,94410,18 novembre 2005,48.801685,2.440318
+2006,Journée d’étude AESP,,Les problématiques d'archivage électronique qui s'imposent aux entreprises,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Massy,91300,23 juin 2006,48.728133,2.269556
+2006,Journée d’étude AESP,,Archives et Management d’entreprise ,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,La Défense,92060,24 novembre 2006,48.890171,2.242921
+2007,Journée d’étude AESP,,Archivistes et information stratégique,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75003,22 juin 2007,48.8707,2.3485
+2007,Journée d’étude AESP,,Les archives des entreprises publiques face à la libéralisation des marchés ,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75002,16 novembre 2007,48.8901,2.4006
+2008,Journée d’étude AESP,,"Les archives, patrimoine et richesse de l'entreprise",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75001,5-6 juin 2008,48.8816,2.3367
+2008,Journée d’étude AESP,,L'archiviste en entreprise:  un métier en évolution,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,La Défense,92060,28 novembre 2008,48.8966,2.2411
+2009,Journée d’étude AESP,,Les archives d'entreprise : un patrimoine à valoriser,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Tulle,19000,25 juin 2009,45.267177,1.764073
+2010,Journée d’étude AESP,,Journée AAF-AFNOR,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,La Défense,92060,22 janvier 2010,48.8941,2.2406
+2011,Journée d’étude AESP,,L’archiviste : chef de projet ?,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,La Défense,92060,3 février 2011,48.8941,2.242921
+2012,Journée d’étude AESP,,Les entreprises ont-elle besoin d'une mémoire ? Constats et perspectives en Rhône-Alpes,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Villeurbanne,69100,21-23 juin 2012,45.768975,4.890035
+2013,Journée d’étude AESP,,"L’élimination d’archives : une affaire économique, culturelle et psychologique »",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Roubaix,59512,25 octobre 2013,50.688472,3.183681
+2014,Journée d’étude AESP,,La valorisation du patrimoine dans les entreprises privées ,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75010,19-20 juin 2014,48.8712,2.3621
+2014,Journée d’étude AESP,,Mutation de l’environnement de travail : quels impacts pour l'archivage,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Saint-Denis,93200,19 juin 2014,48.926101,2.362458
+2017,Journée d’étude AESP,,Le patrimoine historique des entreprises : une nécessité à l’ère numérique,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Paris,75018,18 mai 2017,48.8475,2.3411
+2018,Journée d’étude AESP,,La collecte d’archives numériques : quelles stratégies ?,https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Courbevoie,92026,17 mai 2018,48.897998,2.256986
+2022,Journée d’étude AESP,,"La valorisation des archives d’entreprises, en interne et en externe",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Nanterre,92000,6 décembre 2022,48.896668,2.20237
+2018,Journée d’étude AES,,"Du papier au numérique : coexistence, enjeux et perspectives",https://github.com/ALDonzel/aafevenement/blob/main/catinbox.gif?raw=true,Bordeaux,33200,5 octobre 2018,44.851895,-0.587877

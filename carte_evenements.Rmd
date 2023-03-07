@@ -74,7 +74,8 @@ Column {data-width=800}
 # Création de l'infobox qui s'affichera sur la carte
 infobox <- paste(
     sep = "<br/>",
-    "<b> Thème : </b>", data$theme,
+    "<b> Type : </b>", data$type,
+    "<b>", "Thème : </b>", data$theme,
     "<b>", "Date : </b>", data$date,
     "<b>", "Commune : </b>", data$ville,
     "<b>", paste0("<b><a href=",data$url, ">Lien vers les actes</a></b>")
@@ -83,9 +84,13 @@ infobox <- paste(
 
 ```{r}
 # Création de la palette de couleur et attribution des couleurs aux différents types d'évènements
-pal <- colorFactor(palette = c("RASAD" = "#6A7FDB", 
-                               "Forum" = "#249159", 
-                               "Colloque ACII" = "#801A86"), 
+pal <- colorFactor(palette = c("Colloque ACII" = "#801A86",
+                               "Forum" = "#249159",
+                               "Journée d’étude AES" = "#D3D0CB",
+                               "Journée d’étude AESP" = "#F6790B",
+                               "Journée d’étude AR" = "#F7DD72",
+                               "Journée d’étude AURORE" = "#FF4365",
+                               "RASAD" = "#6A7FDB"), 
                                domain = data$type)
 ```
 
