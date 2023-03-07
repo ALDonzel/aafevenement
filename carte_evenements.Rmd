@@ -86,7 +86,7 @@ infobox <- paste(
 # Création de la palette de couleur et attribution des couleurs aux différents types d'évènements
 pal <- colorFactor(palette = c("Colloque ACII" = "#801A86",
                                "Forum" = "#249159",
-                               "Journée d’étude AES" = "#D3D0CB",
+                               "Journée d’étude AES" = "#615f61",
                                "Journée d’étude AESP" = "#F6790B",
                                "Journée d’étude AR" = "#F7DD72",
                                "Journée d’étude AURORE" = "#FF4365",
