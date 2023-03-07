@@ -1,9 +1,9 @@
 annee,type,edition,theme,url,ville,cp,date,latitude,longitude
-2002,RASAD,1re,La pra­ti­que de l’exter­na­li­sa­tion dans les Archives dépar­te­men­ta­les,,Bourges,18000,2002,47.082492,2.397495
-2003,RASAD,2ème,Les admi­nis­tra­tions de l’État et leurs archi­ves après la cir­cu­laire du 2 novem­bre 2001 : bilan et pers­pec­ti­ves,,Alençon,61000,2003,48.429859,0.092935
-2004,RASAD,3ème,"Évaluation et sélec­tion des archi­ves, quel­ques ques­tions d’actua­lité",,Carcassonne,11000,2004,43.206781,2.349415
+2002,RASAD,1re,La pra­ti­que de l’exter­na­li­sa­tion dans les Archives dépar­te­men­ta­les,https://github.com/ALDonzel/aafevenement/catinbox.gif,Bourges,18000,2002,47.082492,2.397495
+2003,RASAD,2ème,Les admi­nis­tra­tions de l’État et leurs archi­ves après la cir­cu­laire du 2 novem­bre 2001 : bilan et pers­pec­ti­ves,https://github.com/ALDonzel/aafevenement/catinbox.gif,Alençon,61000,2003,48.429859,0.092935
+2004,RASAD,3ème,"Évaluation et sélec­tion des archi­ves, quel­ques ques­tions d’actua­lité",https://github.com/ALDonzel/aafevenement/catinbox.gif,Carcassonne,11000,2004,43.206781,2.349415
 2005,RASAD,4ème,"Transfert de com­pé­ten­ces, trans­fert d’archi­ves. Dévolution des archi­ves cou­ran­tes, inter­mé­diai­res et défi­ni­ti­ves dans le cadre de l’acte II de la décen­tra­li­sa­tion",https://www.persee.fr/doc/gazar_0016-5522_2005_num_200_4_3799,Beauvais,60000,3-4 février 2005,49.439897,2.087073
-2006,RASAD,5ème,Les archi­ves électroniques : pra­ti­ques et tac­ti­ques,,Dijon,21000,2-3 février 2006,47.331938,5.034852
+2006,RASAD,5ème,Les archi­ves électroniques : pra­ti­ques et tac­ti­ques,https://github.com/ALDonzel/aafevenement/catinbox.gif,Dijon,21000,2-3 février 2006,47.331938,5.034852
 2007,RASAD,6ème,Un site inter­net aux archi­ves dépar­te­men­ta­les : pour­quoi ? com­ment ?,https://www.persee.fr/issue/gazar_0016-5522_2007_num_207_3,Marseille,13001,1er-2 février 2007,43.282,5.405
 2008,RASAD,7ème,La conser­va­tion pré­ven­tive,https://www.persee.fr/issue/gazar_0016-5522_2008_num_209_1,Rennes,35000,31 jan­vier-2 février 2008,48.1293,-1.6967
 2009,RASAD,8ème,Chiffrer et évaluer les archi­ves,https://www.persee.fr/issue/gazar_0016-5522_2009_num_216_4,Paris,75001,5-6 février 2009,48.859,2.347
@@ -16,13 +16,13 @@ annee,type,edition,theme,url,ville,cp,date,latitude,longitude
 2018,RASAD,15ème,L’archi­viste hors de ses fron­tiè­res – trans­ver­sa­li­tés / pas­se­rel­les / coo­pé­ra­tions,https://www.archivistes.org/RASAD-2018-supports-des-interventions,Angoulême,16000,1er-2 février 2018,45.644018,0.148409
 2020,RASAD,16ème,Faire l’arti­­cle ! Promouvoir nos res­­sour­­ces sur le web,https://www.archivistes.org/RASAD-2020-supports-des-interventions,Lyon,69001,6-7 février 2020,45.758,4.835
 2021,RASAD,17ème,Archives et objets,https://www.archivistes.org/RASAD-2021-supports-des-interventions,Angers,49100,14-15 octo­bre 2021,47.466735,-0.56191
-2023,RASAD,18ème,Les poli­ti­ques de clas­se­ment,,Nancy,54100,9-10 mars 2023,48.6411,6.1719
+2023,RASAD,18ème,Les poli­ti­ques de clas­se­ment,https://github.com/ALDonzel/aafevenement/catinbox.gif,Nancy,54100,9-10 mars 2023,48.6411,6.1719
 2015,Colloque ACII,11ème,Les mutations du métier d’archiviste et de son environnement,https://www.persee.fr/issue/gazar_0016-5522_2016_num_244_4,Limoges,87000,2-4 juin 2015,45.856159,1.221254
-2017,Colloque ACII,12ème,L’archi­viste-camé­léon : média­teur du quo­ti­dien,,Pau,64000,26-28 septembre 2017,43.313159,-0.343106
+2017,Colloque ACII,12ème,L’archi­viste-camé­léon : média­teur du quo­ti­dien,https://github.com/ALDonzel/aafevenement/catinbox.gif,Pau,64000,26-28 septembre 2017,43.313159,-0.343106
 2012,Colloque ACII,10ème,"Mutualiser, par­ta­ger, coo­pé­rer : des enjeux pour les archi­ves com­mu­na­les et inter­com­mu­na­les ",https://www.persee.fr/issue/gazar_0016-5522_2013_num_232_4,Béthune,62400,2-4 octobre 2012,50.528207,2.646031
-2005,Colloque ACII,7ème,"Représenter le territoire : archives et nouvelles technologies, du plan terrier au S.I.G.",https://www.persee.fr/issue/gazar_0016-5522_2004_num_194_1,Nantes,44000,28-30 septembre 2007,47.239367,-1.555335
+2005,Colloque ACII,7ème,"Représenter le territoire : archives et nouvelles technologies, du plan terrier au S.I.G.",https://www.persee.fr/issue/gazar_0016-5522_2004_num_194_1,Nantes,44000,28-30 septembre 2005,47.239367,-1.555335
 2010,Colloque ACII,9ème,L’archiviste dans la cité,https://www.persee.fr/issue/gazar_0016-5522_2011_num_222_2?sectionId=gazar_0016-5522_2011_num_222_2_4798,Nancy,54100,6-8 octobre 2010,48.7293,6.2356
-2023,Colloque ACII,13ème,Avec ou sans tran­­si­­tionS ? Les archi­­vis­­tes au cœur des défis contem­­po­­rains ,,Valenciennes,59300,17-19 octobre 2023,50.358552,3.510438
+2023,Colloque ACII,13ème,Avec ou sans tran­­si­­tionS ? Les archi­­vis­­tes au cœur des défis contem­­po­­rains ,https://github.com/ALDonzel/aafevenement/catinbox.gif,Valenciennes,59300,17-19 octobre 2023,50.358552,3.510438
 2002,Colloque ACII,6ème,"Archives et intercommunalité, nouveaux territoires, nouvelles pratiques ",https://www.persee.fr/issue/gazar_0016-5522_2005_num_199_3,Dunkerque,59140,9-11 octobre 2002,51.028093,2.346065
 1994,Colloque ACII,3ème,Archives municipales et patrimoine industriel,https://www.persee.fr/issue/gazar_0016-5522_1995_num_168_1,Elbeuf,76500,25-27 mai 1994,49.283747,0.991479
 2000,Colloque ACII,5ème,Archives et politique de la ville,https://www.persee.fr/issue/gazar_0016-5522_2005_num_199_3,Toulouse,31000,14-16 juin 2000,43.604082,1.433805
@@ -32,4 +32,4 @@ annee,type,edition,theme,url,ville,cp,date,latitude,longitude
 2013,Forum,1er,"Les archives, aujourd’hui et demain…",https://www.persee.fr/issue/gazar_0016-5522_2014_num_233_1,Angers,49100,20-22 mars 2013,47.5025,-0.5089
 2016,Forum,2ème,meta/morphose,https://www.persee.fr/issue/gazar_0016-5522_2017_num_245_1,Troyes,10000,30-31 mars et 1er avril 2016,48.292817,4.075149
 2019,Forum,3ème,Archives et transparence,https://www.persee.fr/issue/gazar_0016-5522_2019_num_255_3,Saint-Étienne,42000,20-22 mars 2019,45.430195,4.370045
-2025,Forum,4ème,[Thème à venir],,Rennes,35000,,48.11505,-1.68119
+2025,Forum,4ème,[Thème à venir],https://github.com/ALDonzel/aafevenement/catinbox.gif,Rennes,35000,,48.11505,-1.68119
